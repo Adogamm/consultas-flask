@@ -1,0 +1,168 @@
+Consulta Ropa|2022-06-23 10:09:43.599164
+1;1;1;Abrigo;Vestir/Formal;M;INVIERNO;Blanco
+2;2;2;Abrigo;Lluvia;XL;INVIERNO;Negro
+Consulta Ropa|2022-06-23 10:10:22.510227
+1;1;1;Abrigo;Vestir/Formal;M;INVIERNO;Blanco
+2;2;2;Abrigo;Lluvia;XL;INVIERNO;Negro
+Consulta Accesorio|2022-06-23 10:10:41.920320
+5;1;5;Sombrero;Blanco/Morado
+6;2;6;Cartera;Rosado
+Consulta Calzado|2022-06-23 10:10:54.043453
+3;1;3;Zapatillas;Deportivo;39;Violeta/Verde
+4;2;4;Zapatos;Vestir/Formal;43;Negro Mate
+Consulta Calzado|2022-06-23 10:13:58.620310
+3;1;3;Zapatillas;Deportivo;39;Violeta/Verde
+4;2;4;Zapatos;Vestir/Formal;43;Negro Mate
+Consulta Ropa|2022-06-23 14:19:57.033031
+1;1;1;Abrigo;Vestir/Formal;M;INVIERNO;Blanco
+2;2;2;Abrigo;Lluvia;XL;INVIERNO;Negro
+Consulta Accesorio|2022-06-23 14:19:59.258185
+5;1;5;Sombrero;Blanco/Morado
+6;2;6;Cartera;Rosado
+Consulta Calzado|2022-06-23 14:20:00.497681
+3;1;3;Zapatillas;Deportivo;39;Violeta/Verde
+4;2;4;Zapatos;Vestir/Formal;43;Negro Mate
+Consulta Ropa|2022-06-23 14:34:19.319553
+1;1;1;Abrigo;Vestir/Formal;M;INVIERNO;Blanco
+2;2;2;Abrigo;Lluvia;XL;INVIERNO;Negro
+Consulta Accesorio|2022-06-23 14:34:24.697056
+5;1;5;Sombrero;Blanco/Morado
+6;2;6;Cartera;Rosado
+Consulta Calzado|2022-06-23 14:34:27.173270
+3;1;3;Zapatillas;Deportivo;39;Violeta/Verde
+4;2;4;Zapatos;Vestir/Formal;43;Negro Mate
+Consulta Ropa|2022-06-23 14:34:38.765904
+1;1;1;Abrigo;Vestir/Formal;M;INVIERNO;Blanco
+2;2;2;Abrigo;Lluvia;XL;INVIERNO;Negro
+Consulta Ropa|2022-06-23 14:34:57.111243
+1;1;1;Abrigo;Vestir/Formal;M;INVIERNO;Blanco
+2;2;2;Abrigo;Lluvia;XL;INVIERNO;Negro
+Consulta Ropa|2022-06-23 14:35:27.720966
+1;1;1;Abrigo;Vestir/Formal;M;INVIERNO;Blanco
+2;2;2;Abrigo;Lluvia;XL;INVIERNO;Negro
+Consulta Ropa|2022-06-23 14:35:43.847649
+1;1;1;Abrigo;Vestir/Formal;M;INVIERNO;Blanco
+2;2;2;Abrigo;Lluvia;XL;INVIERNO;Negro
+Consulta Ropa|2022-06-23 14:35:49.873152
+1;1;1;Abrigo;Vestir/Formal;M;INVIERNO;Blanco
+2;2;2;Abrigo;Lluvia;XL;INVIERNO;Negro
+Consulta Ropa|2022-06-23 14:36:01.699248
+1;1;1;Abrigo;Vestir/Formal;M;INVIERNO;Blanco
+2;2;2;Abrigo;Lluvia;XL;INVIERNO;Negro
+Consulta Ropa|2022-06-23 14:36:09.312499
+1;1;1;Abrigo;Vestir/Formal;M;INVIERNO;Blanco
+2;2;2;Abrigo;Lluvia;XL;INVIERNO;Negro
+Consulta Ropa|2022-06-23 14:36:38.730993
+1;1;1;Abrigo;Vestir/Formal;M;INVIERNO;Blanco
+2;2;2;Abrigo;Lluvia;XL;INVIERNO;Negro
+Consulta Ropa|2022-06-23 14:36:48.199569
+1;1;1;Abrigo;Vestir/Formal;M;INVIERNO;Blanco
+2;2;2;Abrigo;Lluvia;XL;INVIERNO;Negro
+Consulta Ropa|2022-06-23 14:36:57.429028
+1;1;1;Abrigo;Vestir/Formal;M;INVIERNO;Blanco
+2;2;2;Abrigo;Lluvia;XL;INVIERNO;Negro
+Consulta Ropa|2022-06-23 14:37:09.136370
+1;1;1;Abrigo;Vestir/Formal;M;INVIERNO;Blanco
+2;2;2;Abrigo;Lluvia;XL;INVIERNO;Negro
+Consulta Ropa|2022-06-23 14:37:15.607073
+1;1;1;Abrigo;Vestir/Formal;M;INVIERNO;Blanco
+2;2;2;Abrigo;Lluvia;XL;INVIERNO;Negro
+Consulta Ropa|2022-06-23 14:37:52.745636
+1;1;1;Abrigo;Vestir/Formal;M;INVIERNO;Blanco
+2;2;2;Abrigo;Lluvia;XL;INVIERNO;Negro
+Consulta Ropa|2022-06-23 14:38:08.142173
+1;1;1;Abrigo;Vestir/Formal;M;INVIERNO;Blanco
+2;2;2;Abrigo;Lluvia;XL;INVIERNO;Negro
+Consulta Ropa|2022-06-23 14:38:19.237767
+1;1;1;Abrigo;Vestir/Formal;M;INVIERNO;Blanco
+2;2;2;Abrigo;Lluvia;XL;INVIERNO;Negro
+Consulta Ropa|2022-06-23 14:38:48.332195
+1;1;1;Abrigo;Vestir/Formal;M;INVIERNO;Blanco
+2;2;2;Abrigo;Lluvia;XL;INVIERNO;Negro
+Consulta Ropa|2022-06-23 14:39:12.078174
+1;1;1;Abrigo;Vestir/Formal;M;INVIERNO;Blanco
+2;2;2;Abrigo;Lluvia;XL;INVIERNO;Negro
+Consulta Ropa|2022-06-23 14:39:58.216532
+1;1;1;Abrigo;Vestir/Formal;M;INVIERNO;Blanco
+2;2;2;Abrigo;Lluvia;XL;INVIERNO;Negro
+Consulta Ropa|2022-06-23 14:40:08.200225
+1;1;1;Abrigo;Vestir/Formal;M;INVIERNO;Blanco
+2;2;2;Abrigo;Lluvia;XL;INVIERNO;Negro
+Consulta Ropa|2022-06-23 14:40:31.340839
+1;1;1;Abrigo;Vestir/Formal;M;INVIERNO;Blanco
+2;2;2;Abrigo;Lluvia;XL;INVIERNO;Negro
+Consulta Ropa|2022-06-23 14:40:39.759933
+1;1;1;Abrigo;Vestir/Formal;M;INVIERNO;Blanco
+2;2;2;Abrigo;Lluvia;XL;INVIERNO;Negro
+Consulta Ropa|2022-06-23 14:40:52.470217
+1;1;1;Abrigo;Vestir/Formal;M;INVIERNO;Blanco
+2;2;2;Abrigo;Lluvia;XL;INVIERNO;Negro
+Consulta Ropa|2022-06-23 14:40:59.288224
+1;1;1;Abrigo;Vestir/Formal;M;INVIERNO;Blanco
+2;2;2;Abrigo;Lluvia;XL;INVIERNO;Negro
+Consulta Ropa|2022-06-23 14:41:03.894398
+1;1;1;Abrigo;Vestir/Formal;M;INVIERNO;Blanco
+2;2;2;Abrigo;Lluvia;XL;INVIERNO;Negro
+Consulta Ropa|2022-06-23 14:41:14.924320
+1;1;1;Abrigo;Vestir/Formal;M;INVIERNO;Blanco
+2;2;2;Abrigo;Lluvia;XL;INVIERNO;Negro
+Consulta Ropa|2022-06-23 14:41:53.250907
+1;1;1;Abrigo;Vestir/Formal;M;INVIERNO;Blanco
+2;2;2;Abrigo;Lluvia;XL;INVIERNO;Negro
+Consulta Ropa|2022-06-23 14:42:34.778362
+1;1;1;Abrigo;Vestir/Formal;M;INVIERNO;Blanco
+2;2;2;Abrigo;Lluvia;XL;INVIERNO;Negro
+Consulta Ropa|2022-06-23 14:42:35.540195
+1;1;1;Abrigo;Vestir/Formal;M;INVIERNO;Blanco
+2;2;2;Abrigo;Lluvia;XL;INVIERNO;Negro
+Consulta Ropa|2022-06-23 14:43:03.353866
+1;1;1;Abrigo;Vestir/Formal;M;INVIERNO;Blanco
+2;2;2;Abrigo;Lluvia;XL;INVIERNO;Negro
+Consulta Ropa|2022-06-23 14:43:14.337899
+1;1;1;Abrigo;Vestir/Formal;M;INVIERNO;Blanco
+2;2;2;Abrigo;Lluvia;XL;INVIERNO;Negro
+Consulta Ropa|2022-06-23 14:43:22.027302
+1;1;1;Abrigo;Vestir/Formal;M;INVIERNO;Blanco
+2;2;2;Abrigo;Lluvia;XL;INVIERNO;Negro
+Consulta Ropa|2022-06-23 14:43:35.395427
+1;1;1;Abrigo;Vestir/Formal;M;INVIERNO;Blanco
+2;2;2;Abrigo;Lluvia;XL;INVIERNO;Negro
+Consulta Ropa|2022-06-23 14:43:45.974026
+1;1;1;Abrigo;Vestir/Formal;M;INVIERNO;Blanco
+2;2;2;Abrigo;Lluvia;XL;INVIERNO;Negro
+Consulta Ropa|2022-06-23 14:44:55.674210
+1;1;1;Abrigo;Vestir/Formal;M;INVIERNO;Blanco
+2;2;2;Abrigo;Lluvia;XL;INVIERNO;Negro
+Consulta Ropa|2022-06-23 14:45:52.801721
+1;1;1;Abrigo;Vestir/Formal;M;INVIERNO;Blanco
+2;2;2;Abrigo;Lluvia;XL;INVIERNO;Negro
+Consulta Ropa|2022-06-23 14:45:56.555232
+1;1;1;Abrigo;Vestir/Formal;M;INVIERNO;Blanco
+2;2;2;Abrigo;Lluvia;XL;INVIERNO;Negro
+Consulta Ropa|2022-06-23 14:45:57.482969
+1;1;1;Abrigo;Vestir/Formal;M;INVIERNO;Blanco
+2;2;2;Abrigo;Lluvia;XL;INVIERNO;Negro
+Consulta Ropa|2022-06-23 14:45:58.664472
+1;1;1;Abrigo;Vestir/Formal;M;INVIERNO;Blanco
+2;2;2;Abrigo;Lluvia;XL;INVIERNO;Negro
+Consulta Ropa|2022-06-23 14:45:59.498908
+1;1;1;Abrigo;Vestir/Formal;M;INVIERNO;Blanco
+2;2;2;Abrigo;Lluvia;XL;INVIERNO;Negro
+Consulta Ropa|2022-06-23 14:46:23.606171
+1;1;1;Abrigo;Vestir/Formal;M;INVIERNO;Blanco
+2;2;2;Abrigo;Lluvia;XL;INVIERNO;Negro
+Consulta Accesorio|2022-06-23 14:46:24.555971
+5;1;5;Sombrero;Blanco/Morado
+6;2;6;Cartera;Rosado
+Consulta Accesorio|2022-06-23 14:46:37.302928
+5;1;5;Sombrero;Blanco/Morado
+6;2;6;Cartera;Rosado
+Consulta Calzado|2022-06-23 14:46:38.555487
+3;1;3;Zapatillas;Deportivo;39;Violeta/Verde
+4;2;4;Zapatos;Vestir/Formal;43;Negro Mate
+Consulta Accesorio|2022-06-23 14:46:41.342336
+5;1;5;Sombrero;Blanco/Morado
+6;2;6;Cartera;Rosado
+Consulta Ropa|2022-06-23 14:46:43.971040
+1;1;1;Abrigo;Vestir/Formal;M;INVIERNO;Blanco
+2;2;2;Abrigo;Lluvia;XL;INVIERNO;Negro

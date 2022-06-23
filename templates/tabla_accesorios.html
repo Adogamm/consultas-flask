@@ -1,0 +1,33 @@
+{% extends "index.html" %}
+{% block contenido %}
+
+<section class="section">
+    <div class="columns">
+        <div class="column">
+            <h3 class="is-size-3">Consulta de Articulos-Accesorios</h3>
+            <table class="table">
+                <thead>
+                    <tr>
+                        <th>ID</th>
+                        <th>ID Accesorios</th>
+                        <th>ID Articulo</th>
+                        <th>Tipo</th>
+                        <th>Color</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    {% for dato in accesorio %}
+                    <tr>
+                        <td>{{dato[0]}}</td>
+                        <td>{{dato[1]}}</td>
+                        <td>{{dato[2]}}</td>
+                        <td>{{dato[3]}}</td>
+                        <td>{{dato[4]}}</td>
+                    </tr>
+                    {% endfor %}
+                </tbody>
+            </table>
+        </div>
+    </div>
+</section>
+{% endblock %}
