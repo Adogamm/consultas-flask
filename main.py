@@ -1,6 +1,7 @@
-# Importacion del farmework de Flask
 from flask import Flask, render_template, request, redirect
-import controlador
+from Controller.controlador import Controller
+
+controlador = Controller()
 
 app = Flask(__name__)
 

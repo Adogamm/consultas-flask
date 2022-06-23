@@ -1,0 +1,3 @@
+Consulta Calzado|2022-06-23 15:02:37.693477
+3;1;3;Zapatillas;Deportivo;39;Violeta/Verde
+4;2;4;Zapatos;Vestir/Formal;43;Negro Mate
